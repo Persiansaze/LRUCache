@@ -1,4 +1,4 @@
-Sponsored by [PersianSaze](https://persiansaze.com/).
+Sponsored by [بانک اطلاعات ساختمان](https://persiansaze.com/).
 
 # LRU Cache 
 A cache service written in .NET Core implemented using `Least Recently Used` policy.
